@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ismet Maulana Azhari</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Ismet+Maulana+Azhari+%F0%9F%91%8B;Informatics+Student+2023;Cloud+and+Mobile+Developer" alt="Typing SVG" />
+</div>
+
+<h3 align="center">A passionate developer from Indonesia</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IsmetMaulanaAzhari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -36,7 +46,7 @@
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199730741289/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/steam.svg" alt="Steam" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="35" />
   </a>
   <a href="https://www.youtube.com/@ismetmaulanaazhary" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube" height="30" width="40" />
