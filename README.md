@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Ismet+Maulana+Azhari+%F0%9F%91%8B;Informatics+Student+2023;Cloud+and+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Ismet+Maulana+Azhari+%F0%9F%91%8B;Informatics+Student+2023;Website+and+Mobile+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A passionate developer from Indonesia</h3>
