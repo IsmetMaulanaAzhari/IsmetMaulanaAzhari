@@ -1,4 +1,4 @@
-<img width="100%" src="[def]"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ismet%20Maulana%20Azhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Website%20and%20Mobile%20Developer%20from%20Indonesia&descAlignY=52&descSize=18"/>
 
 <div align="center">
   
@@ -138,6 +138,3 @@ const ismet = {
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-
-[def]: ttps://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ismet%20Maulana%20Azhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Website%20%26%20Mobile%20Developer%20from%20Indonesia%20🇮🇩&descAlignY=52&descSize=1
