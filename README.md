@@ -21,7 +21,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```javascript
 const ismet = {
@@ -37,8 +36,7 @@ const ismet = {
 - 🔭 Currently working on **exciting projects**
 - 🌱 Learning **TypeScript** and **ReactJS**
 - 👨‍💻 Passionate about **Web & Mobile Development**
-- 💬 Ask me about **Laravel, Flutter, Vue.js**
-- ⚡ Fun fact: **I debug with console.log() 😄**
+- 💬 Ask me about **Laravel, Flutter, React**
 
 <br clear="right"/>
 
@@ -59,7 +57,6 @@ const ismet = {
 ### 🚀 Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
